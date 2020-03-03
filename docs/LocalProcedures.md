@@ -2,7 +2,7 @@
 
 ## VER 1.2 MARCH 2020
 
-![](../Images/LogovRF.JPG)
+![](../Images/vTLPlogo.png)
 
 
 
