@@ -1,8 +1,8 @@
 # RED TEAM VRF LIMITATIONS AND TACTICS
-![](../Images/LogovRF.JPG)
+![](../Images/vTLPlogo.png)
 ## COURSE AND  MISSIONS  OBJECTIVES:
 
-VRF  course  main  goal  is  to  train  Blue  forces in  advanced  complex  scenarios. This course  is  built  and  planned  in  order  to  make  Mission  Commanders  and  learn  best  tactics  to  fight  against  an  enemy  force  taking  into  account  available  assets  and  resources.
+vTLP  course  main  goal  is  to  train  Blue  forces in  advanced  complex  scenarios. This course  is  built  and  planned  in  order  to  make  Mission  Commanders  and  learn  best  tactics  to  fight  against  an  enemy  force  taking  into  account  available  assets  and  resources.
 
 Having  said  this.  Red  team  has  to  focus  in  providing  best  training  to  Blue  forces,  not  being  the  best  pilot  or  team in  the world  killing  as  many  blues  as  possible.
 
