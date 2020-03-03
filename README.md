@@ -3,7 +3,7 @@ Wellcome to the virtual Tactical Leadership Program pages hosted by the spanish 
 
 The main objective is to mimic the real TLP to the extend that it is possible inside a simulation, while at the same time having fun and making friends. In short, the vTLP aims for training and development of knowledge and leadership skills, necessary to conduct a multirol air tactical mission.
 
-The programme has been hosted by the GV5Js since 2018 using Falcon BMS. After three successful editions, the vTLP staff has decided to also offer the course in DCSW. In this simulator headquarters will be based in Nellis AFB, Nevada Test and Training Range (NTTR).
+The programme has been hosted by the GV5Js since 2018 using Falcon BMS. After three successful editions, the vTLP staff has decided to also offer the course in DCSW. In this simulator headquarters are based at Nellis AFB, and missions will be conducted in the Nevada Test and Training Range (NTTR).
  
 Blue forces will execute different specific missions, such as air interdiction, OCA strikes, dynamic targeting, defensive counter air, among others. Targets are defended by a variety of Red force ground and air threats to give participant aircrews a challenging combat training mission.
  
