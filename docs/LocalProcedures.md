@@ -22,6 +22,7 @@
 
 7.  [ANNEX B. FREQUENCIES](#annex-b-frequencies)
 
+8. [ANNEX C. KNEEBOARD](#annex-c-kneeboard)
 
 ### 1.  **START-UP**
 
@@ -138,6 +139,9 @@ This is an individual procedure that everybody must accomplish. Please maintain 
 
 ● INTERFLIGHT: PRESET VHF #X, according to the assigned frequency in the COMMCARD
 
+### **ANNEX C. KNEEBOARD**
+
+Charts for kneeboard can be downloaded from [here](https://drive.google.com/file/d/15K-QqFhZUXgYaeWMrcV6Ds45xlRituIQ/view?usp=sharing). Just unzip the files into ``<user>\Saved Games\DCS\Kneeboard\FA-18C_hornet``.
 
 [Back to mainpage](../README.md)
 
