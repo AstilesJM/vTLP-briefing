@@ -1,4 +1,4 @@
-# vRF-briefing
+# vTLP-briefing
 Wellcome to the virtual Tactical Leadership Program pages hosted by the spanish squadron [GV5JS](http://foro.gv5js.com/). Virtual TLP offers to the participants the oportunity to fly combat training missions in DCSW. The exercise provides an scenario where the virtual pilot is exposed to the complexities of planning, briefing and executing a composite attack force mission. It will be conducted on the Nevada Test and Training Range (NTTR).
  
 
