@@ -31,3 +31,5 @@ Mission  limitations  will  be:
 - It  is  very  important  that  you  comply  with  time  on  station  (please  do  not  go  for  AAR  if  you  not  are  able  to  be  at  time  on  your  cap  or  push  point,  otherwise  you  will  degrade  mission  for  Blue and VRF staff will  take this  action  into account  for  next  missions  and  courses.
 
 In  other  worlds:  PLAN  SOMETHING  THAT  MAKES  SENSE  AND  DO  NOT  FORGET  MAIN  COURSE  GOAL!!!!!
+
+[Back to mainpage](../README.md)

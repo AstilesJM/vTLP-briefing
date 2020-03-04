@@ -12,8 +12,54 @@ The Red force threats includes other human virtual fighter pilots flying as agre
 
 ![](Images/vTLPlogo.png)
 
+## Course length and start/finish of course.
+
+Each flight takes place every two weeks. A normal course can have 3 or 4 students so, the duration of the course is around 8 working weeks. Normally, due to holidays the course extend for a three month period.
+
+## Course target audience.
+
+The target audience are simmers with enough experience on the chosen platform to fly the course. Allowable DCSW platforms include F16, F18, F14 and Mirage 2000C. 
+
+Additionally, a limited number of slots for support personnel are also available including GCI and ATC 
+
+## Course composition.
+
+The optimum composition of a COMAO course is as follows:
+
+#### 18-24  participants:
+- 10-12 A-G
+- 6-8 A-A
+- 2-4 SEAD
+
+#### Support:
+- 1 ATC
+- 1 GCI
+
+## Lectures
+- COMAO Concept and Doctrine
+- Mission commander duties
+- COMAO Mission Planning (The four Ts)
+- Precision Guided Munitions Attack Planning
+- Collateral Damage
+- Close Air Support
+- Strike Coordination and Armed Reconnaissance
+- Dynamic Targeting
+- IADS
+- Supressionn of Enemy Air Defence
+- Force Protection
+- Current operations Briefings
+- Participant Systyem Capabilities Briefings
+
+## Exercises and Practice
+- COMAO Demonstration
+- COMAO Planning Exercise 1
+- COMAO Planning Exercise 2
+- COMAO Planning Exercise 3
+- COMAO Planning Exercise 4
+
+
 ## Important documents for aircrews
-* [External applications](./docs/external.md)
+* [Applications](./docs/external.md)
 
 * [Local Procedures](./docs/LocalProcedures.md)
 
@@ -28,9 +74,5 @@ The Red force threats includes other human virtual fighter pilots flying as agre
 * [Scenario](./docs/scenario.md)
 
 * [FLIP NTTR](files/476vFGFlightInfoPubNevada.pdf)
-
-## Missions
-1. Course demonstration
-2. COMAO planning 1.
 
 
