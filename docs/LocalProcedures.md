@@ -125,7 +125,7 @@ This is an individual procedure that everybody must accomplish. Please maintain 
 
 ### **ANNEX B. FREQUENCIES**
 
-● GND: ATIS: PRESET #1 270.1 UHF, for last weather information updates.
+● ATIS: PRESET #1 270.1 UHF, for last weather information updates.
 
 ● GND:  PRESET #2 275.8 UHF/121.8 VHF, for ground control if available.
 
