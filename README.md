@@ -59,7 +59,7 @@ The optimum composition of a COMAO course is as follows:
 
 
 ## Important documents for aircrews
-* [External applications](./docs/external.md)
+* [Applications](./docs/external.md)
 
 * [Local Procedures](./docs/LocalProcedures.md)
 
