@@ -18,23 +18,22 @@ Each flight takes place every two weeks. A normal course can have 3 or 4 student
 
 ## Course target audience.
 
-The target audience are simmers with enough experience on the chosen platform to fly the course. Allowable platforms include F16, F18, F14, Mirage 2000C.
+The target audience are simmers with enough experience on the chosen platform to fly the course. Allowable DCSW platforms include F16, F18, F14 and Mirage 2000C. 
 
-A limited number of slots are available for Rotary Wing.  Additionally, a limited number of slots for support personnel are also available including GCI and ATC 
+Additionally, a limited number of slots for support personnel are also available including GCI and ATC 
 
 ## Course composition.
 
-The optimum composition of a COMAO ACAD course is as follows:
+The optimum composition of a COMAO course is as follows:
 
-#### 18-22 participants: Aircrews (pilots or navigators):
-- 10 A-G (A-G/MR or RECCE)
-- 6 A-A (A-A or MR)
-- 2 SEAD
-- 2 HELO
+#### 18-24  participants:
+- 10-12 A-G
+- 6-8 A-A
+- 2-4 SEAD
 
 #### Support:
-- 1/2 ATC
-- 1/2 GCI
+- 1 ATC
+- 1 GCI
 
 ## Lectures
 - COMAO Concept and Doctrine
@@ -52,7 +51,7 @@ The optimum composition of a COMAO ACAD course is as follows:
 - Participant Systyem Capabilities Briefings
 
 ## Exercises and Practice
-- COMAO Brainstorm Demonstration
+- COMAO Demonstration
 - COMAO Planning Exercise 1
 - COMAO Planning Exercise 2
 - COMAO Planning Exercise 3
