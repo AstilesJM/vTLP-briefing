@@ -36,7 +36,7 @@ The optimum composition of a COMAO course is as follows:
 - 1 GCI
 
 ## Lectures
-- COMAO Concept
+- COMAO Concept and Doctrine
 - Mission commander duties
 - COMAO Mission Planning (The four Ts)
 - Precision Guided Munitions Attack Planning
