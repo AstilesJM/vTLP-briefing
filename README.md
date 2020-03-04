@@ -45,7 +45,7 @@ The optimum composition of a COMAO course is as follows:
 - Strike Coordination and Armed Reconnaissance
 - Dynamic Targeting
 - IADS
-- Supressionn of Enemy Air Defence
+- Supression of Enemy Air Defence
 - Force Protection
 - Current operations Briefings
 - Participant Systyem Capabilities Briefings
