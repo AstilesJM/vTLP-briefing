@@ -1,7 +1,7 @@
 # vTLP-briefing
 Wellcome to the virtual Tactical Leadership Program pages hosted by the spanish squadron [GV5JS](http://foro.gv5js.com/). Virtual TLP offers to the participants the oportunity to fly combat training missions in DCSW. The exercise provides an scenario where the virtual pilot is exposed to the complexities of planning, briefing and executing a composite attack force mission COMAO.
 
-The main objective is to mimic the real TLP to the extend that it is possible inside a simulation, while at the same time having fun and making friends. In short, the vTLP aims for training and development of knowledge and leadership skills, necessary to conduct a multirol air tactical mission.
+The main objective is to mimic the real TLP that takes place in Albacete, Spain, to the extend that it is possible inside a simulation. In short, the vTLP aims for training and development of knowledge and leadership skills, necessary to conduct a multirol air tactical mission.
 
 The programme has been hosted by the GV5Js since 2018 using Falcon BMS. After three successful editions, the vTLP staff has decided to also offer the course in DCSW. In this simulator headquarters are based at Nellis AFB, and missions will be conducted in the Nevada Test and Training Range (NTTR).
  
@@ -30,5 +30,7 @@ The Red force threats includes other human virtual fighter pilots flying as agre
 * [FLIP NTTR](files/476vFGFlightInfoPubNevada.pdf)
 
 ## Missions
+1. Course demonstration
+2. COMAO planning 1.
 
 
