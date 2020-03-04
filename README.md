@@ -18,9 +18,9 @@ Each flight takes place every two weeks. A normal course can have 3 or 4 student
 
 ## Course target audience.
 
-The target audience is simmers with enough experience on the chosen platform to fly the course. The course is applicable for navigators, WSO and pilots.
+The target audience are simmers with enough experience on the chosen platform to fly the course. Allowable platforms include F16, F18, F14, Mirage 2000C.
 
-A limited number of slots are available for Rotary Wing.  Additionally, a limited number of slots for support personnel are also available including GCI and Intel. 
+A limited number of slots are available for Rotary Wing.  Additionally, a limited number of slots for support personnel are also available including GCI and ATC 
 
 ## Course composition.
 
