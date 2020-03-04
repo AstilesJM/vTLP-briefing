@@ -26,14 +26,15 @@ A limited number of slots are available for Rotary Wing.  Additionally, a limite
 
 The optimum composition of a COMAO ACAD course is as follows:
 
-18-22 participants: Aircrews (pilots or navigators):
-o 10 A-G (A-G/MR or RECCE)
-o 6 A-A (A-A or MR)
-o 2 SEAD
-o 2 HELO
-Support:
-o 1 ATC
-o 1 GCI
+#### 18-22 participants: Aircrews (pilots or navigators):
+- 10 A-G (A-G/MR or RECCE)
+- 6 A-A (A-A or MR)
+- 2 SEAD
+- 2 HELO
+
+#### Support:
+- 1/2 ATC
+- 1/2 GCI
 
 ## Lectures
 - COMAO Concept and Doctrine
