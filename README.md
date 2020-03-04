@@ -48,7 +48,7 @@ The optimum composition of a COMAO course is as follows:
 - Supression of Enemy Air Defence
 - Force Protection
 - Current operations Briefings
-- Participant Systyem Capabilities Briefings
+- Participant System Capabilities Briefings
 
 ## Exercises and Practice
 - COMAO Demonstration
